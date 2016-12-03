@@ -1,2 +1,0 @@
-C:\Users\Nata\OneDrive\projects\shmira\shmira\server.js
-C:\Users\Nata\OneDrive\projects\shmira\shmira\server.js.map
