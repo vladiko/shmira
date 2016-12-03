@@ -1,0 +1,9 @@
+{
+  "name": "shmira",
+  "version": "0.0.0",
+  "description": "shmira",
+  "main": "app.js",
+  "author": {
+    "name": "Nata"
+  }
+}
